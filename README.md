@@ -23,15 +23,10 @@ This project focuses on clarity, hierarchy, and modern UI patterns commonly used
 - CSS
 - JavaScript
 
-*(Add or remove items here if needed)*
 
 ## Status
 
 This is a personal portfolio / concept project and is not affiliated with any real company.
-
-## Preview
-
-_Add screenshots or a live demo link here once available._
 
 ## Author
 
